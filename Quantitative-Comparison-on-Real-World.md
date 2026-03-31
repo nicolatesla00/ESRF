@@ -1,7 +1,7 @@
 **Quantitative Comparison on Real-World Dynamic Grasping (Bowl) — Average Results of 30 Trials** 
 All metrics are averaged across trials. **Jerk** values are in k·rad² (where k = 10⁷).
 
-| Method          | Success (%) ↑ | Path L (m) ↓ | Jerk J~ (k·rad²) ↓ | Dist. D (rad) ↓ | Max Jump J (rad) ↓ |
+| Method          | Success (%) ↑ | Path L (m) ↓ | Jerk $\tilde{J}$ (k·rad²) ↓ | Dist. D (rad) ↓ | Max Jump J (rad) ↓ |
 |-----------------|---------------|--------------|--------------------|-----------------|--------------------|
 | EquiGraspFlow   | 75%           | 1.682088     | 2.366              | 4.040319        | 0.132410           |
 | **Ours (ESRF)** | **90%**       | **1.370024** | **5.731**          | **1.159197**    | **0.033798**       |
