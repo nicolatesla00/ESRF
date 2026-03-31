@@ -10,7 +10,7 @@ All metrics are averaged across trials. **Jerk** values are in k·rad² (where k
 
 
 **Quantitative Comparison on Real-World Dynamic Grasping (Cup) — Average Results of 30 Trials**
-All metrics are averaged across trials. **Jerk** values are in $\text{k·rad}^2$ (where $\text{k}=10^7$).
+All metrics are averaged across trials. **Jerk** values are in k·rad² (where k = 10⁷).
 
 | Method          | Success (%) ↑ | Path L (m) ↓ | Jerk $\tilde{J}$ (k·rad²) ↓ | Dist. D (rad) ↓ | Max Jump J (rad) ↓ |
 |-----------------|---------------|--------------|--------------------|-----------------|--------------------|
@@ -22,7 +22,7 @@ All metrics are averaged across trials. **Jerk** values are in $\text{k·rad}^2$
 
 
 **Quantitative Comparison on Real-World Static Grasping in Pose 1 (Bowl) — Average Results of 30 Trials**
-All metrics are averaged across trials. **Jerk** values are in $\text{k·rad}^2$ (where $\text{k}=10^7$).
+All metrics are averaged across trials. **Jerk** values are in k·rad² (where k = 10⁷).
 
 | Method          | Success (%) ↑ | Path L (m) ↓ | Jerk $\tilde{J}$ (k·rad²) ↓ | Dist. D (rad) ↓ | Max Jump J (rad) ↓ |
 |-----------------|---------------|--------------|-------------------------------|-----------------|--------------------|
@@ -34,7 +34,7 @@ All metrics are averaged across trials. **Jerk** values are in $\text{k·rad}^2$
 
 
 **Quantitative Comparison on Real-World Static Grasping in Pose 2 (Bowl) — Average Results of 30 Trials**
-All metrics are averaged across trials. **Jerk** values are in $\text{k·rad}^2$ (where $\text{k}=10^7$).
+All metrics are averaged across trials. **Jerk** values are in k·rad² (where k = 10⁷).
 
 | Method          | Success (%) ↑ | Path L (m) ↓ | Jerk $\tilde{J}$ (k·rad²) ↓ | Dist. D (rad) ↓ | Max Jump J (rad) ↓ |
 |-----------------|---------------|--------------|-------------------------------|-----------------|--------------------|
@@ -46,7 +46,7 @@ All metrics are averaged across trials. **Jerk** values are in $\text{k·rad}^2$
 
 
 **Quantitative Comparison on Real-World Static Grasping in Pose 1 (Cup) — Average Results of 30 Trials**
-All metrics are averaged across trials. **Jerk** values are in $\text{k·rad}^2$ (where $\text{k}=10^7$).
+All metrics are averaged across trials. **Jerk** values are in k·rad² (where k = 10⁷).
 
 | Method          | Success (%) ↑ | Path L (m) ↓ | Jerk $\tilde{J}$ (k·rad²) ↓ | Dist. D (rad) ↓ | Max Jump J (rad) ↓ |
 |-----------------|---------------|--------------|-------------------------------|-----------------|--------------------|
@@ -57,7 +57,7 @@ All metrics are averaged across trials. **Jerk** values are in $\text{k·rad}^2$
 ---
 
 **Quantitative Comparison on Real-World Static Grasping in Pose 2 (Cup) — Average Results of 30 Trials**
-All metrics are averaged across trials. **Jerk** values are in $\text{k·rad}^2$ (where $\text{k}=10^7$).
+All metrics are averaged across trials. **Jerk** values are in k·rad² (where k = 10⁷).
 
 | Method          | Success (%) ↑ | Path L (m) ↓ | Jerk $\tilde{J}$ (k·rad²) ↓ | Dist. D (rad) ↓ | Max Jump J (rad) ↓ |
 |-----------------|---------------|--------------|-------------------------------|-----------------|--------------------|
